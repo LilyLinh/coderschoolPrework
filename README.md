@@ -4,7 +4,7 @@
 
 Submitted by: **HA THUY LINH**
 
-Time spent: **** hours spent in total
+Time spent: **15** hours spent in total
 
 URL: **mysterious-meadow-70831.herokuapp.com**
 
@@ -32,15 +32,15 @@ The following **additional** features are implemented:
 ## Video Walkthrough 
 
 Here's a walkthrough of implemented user stories:
-> 
+>
 
-![Video Walkthrough](file:///Users/hacaothuylinh/Documents/Job/Linh%20prework%20licecap%201.gif)
+![Video Walkthrough](Linh prework licecap 1.gif)
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-The order of <div> <class>, when to put <%end%>
+The order of div, class, when to put <%end%>
 
 ## License
 
